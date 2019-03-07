@@ -1,4 +1,4 @@
-#Desafio para o codenation - Aceleradev React
+# Desafio para o codenation - Aceleradev React
 
 ## Usando React para listar e filtrar receitas
 Neste desafio, você criará uma interface para listar e filtrar receitas.
